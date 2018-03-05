@@ -19,4 +19,5 @@ INSERT INTO users VALUES (18,"Hannah",23);
 INSERT INTO users VALUES (19,"Josh",18);
 INSERT INTO users VALUES (20,"Michael",5);
 
-INSERT INTO projects VALUES ("Alpha", "A", 200, start_date, end_date)
+
+INSERT INTO projects VALUES (1,"Alpha", "A", 200, 1/1/18, 12/1/18);
