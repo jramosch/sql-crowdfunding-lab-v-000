@@ -18,6 +18,13 @@ INSERT INTO users VALUES (17,"Amanda",22);
 INSERT INTO users VALUES (18,"Hannah",23);
 INSERT INTO users VALUES (19,"Josh",18);
 INSERT INTO users VALUES (20,"Michael",5);
-
-
 INSERT INTO projects VALUES (1,"Alpha", "A", 200, 1/1/18, 12/1/18);
+INSERT INTO projects VALUES (2,"Beta", "A", 200, 1/1/18, 12/1/18);
+INSERT INTO projects VALUES (3,"Gamma", "B", 200, 1/1/18, 12/1/18);
+INSERT INTO projects VALUES (4,"Delta", "A", 200, 1/1/18, 12/1/18);
+INSERT INTO projects VALUES (5,"Zeta", "B", 200, 1/1/18, 12/1/18);
+INSERT INTO projects VALUES (6,"Eta", "B", 200, 1/1/18, 12/1/18);
+INSERT INTO projects VALUES (7,"Theta", "A", 200, 1/1/18, 12/1/18);
+INSERT INTO projects VALUES (8,"Iota", "B", 200, 1/1/18, 12/1/18);
+INSERT INTO projects VALUES (9,"Kappa", "A", 200, 1/1/18, 12/1/18);
+INSERT INTO projects VALUES (10,"Lambda", "A", 200, 1/1/18, 12/1/18);
