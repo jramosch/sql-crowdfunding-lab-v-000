@@ -28,3 +28,4 @@ INSERT INTO projects VALUES (7,"Theta", "A", 200, 1/1/18, 12/1/18);
 INSERT INTO projects VALUES (8,"Iota", "B", 200, 1/1/18, 12/1/18);
 INSERT INTO projects VALUES (9,"Kappa", "A", 200, 1/1/18, 12/1/18);
 INSERT INTO projects VALUES (10,"Lambda", "A", 200, 1/1/18, 12/1/18);
+INSERT INTO pledges VALUES (1,)
