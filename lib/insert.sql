@@ -17,6 +17,6 @@ INSERT INTO users VALUES (16,"Alexis",28);
 INSERT INTO users VALUES (17,"Amanda",22);
 INSERT INTO users VALUES (18,"Hannah",23);
 INSERT INTO users VALUES (19,"Josh",18);
-INSERT INTO users VALUES (20"Michael",5);
+INSERT INTO users VALUES (20,"Michael",5);
 
 INSERT INTO projects VALUES ("Alpha", "A", 200, start_date, end_date)
